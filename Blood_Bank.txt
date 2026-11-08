@@ -1,0 +1,36 @@
+Patient Name: Test
+Patient Blood Type: B-
+-----------
+Patient Name: AB
+Patient Blood Type: AB-
+-----------
+Patient Name: B
+Patient Blood Type: B-
+-----------
+Patient Name: A
+Patient Blood Type: B-
+-----------
+Patient Name: HABADUE
+Patient Blood Type: AB+
+-----------
+Patient Name: JEM
+Patient Blood Type: A-
+-----------
+Patient Name: JOHN
+Patient Blood Type: AB+
+-----------
+Patient Name: EPH
+Patient Blood Type: B-
+-----------
+Patient Name: ASD
+Patient Blood Type: B-
+-----------
+Patient Name: BBBBB
+Patient Blood Type: AB+
+-----------
+Patient Name: none
+Patient Blood Type: O+
+-----------
+Patient Name: PATIENTZERO
+Patient Blood Type: B-
+-----------
